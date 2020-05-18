@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 matmodel_convert.ipynb
 evaluate.ipynb
+__pycache__
