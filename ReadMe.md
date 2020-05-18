@@ -1,4 +1,4 @@
-# CameraFingerprint_ffdnet-pytorch
+# CameraFingerprint (pytorch)
 
 Extract camera fingerprint based on ffdnet.
 
